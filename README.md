@@ -1,6 +1,1 @@
-# Hello World Skill
-
-## Usage:
-* `hello world`
-* `how are you`
-* `thank you`
+Basic Skill To Use for the EE

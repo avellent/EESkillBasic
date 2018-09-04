@@ -1,2 +1,6 @@
-# EESkillBasic
-This a basic skill to test the picroft
+# Hello World Skill
+
+## Usage:
+* `hello world`
+* `how are you`
+* `thank you`
